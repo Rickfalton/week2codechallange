@@ -1,0 +1,21 @@
+body {
+    background-color: aquamarine;
+    margin: 170px;
+    background-image:url(images/dmitry-dreyer-43J80Bc7Ngc-unsplash.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    
+}
+
+h1{
+    color: rgb(255, 225, 53);
+    text-align: center;
+    background-color: chocolate;
+
+}
+
+.bought {
+    text-decoration: line-through;
+    background-color: #d3d3d3; /* Light gray background */
+}
